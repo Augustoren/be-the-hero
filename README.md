@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-11/master/.github/bethehero.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -58,4 +58,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Augusto Renan
